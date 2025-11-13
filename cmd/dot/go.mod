@@ -1,4 +1,4 @@
-module github.com/goccy/go-graphviz/cmd/dot
+module github.com/MartijnCBV/go-graphviz/cmd/dot
 
 go 1.22.0
 
