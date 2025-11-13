@@ -3,7 +3,7 @@ package gvc
 import (
 	"context"
 
-	"github.com/goccy/go-graphviz/internal/wasm"
+	"github.com/MartijnCBV/go-graphviz/internal/wasm"
 )
 
 type LoadImagePlugin struct {

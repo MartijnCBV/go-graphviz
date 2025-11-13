@@ -1,4 +1,4 @@
-# go-graphviz [![Go](https://github.com/goccy/go-graphviz/workflows/Go/badge.svg)](https://github.com/goccy/go-graphviz/actions) [![GoDoc](https://godoc.org/github.com/goccy/go-graphviz?status.svg)](https://pkg.go.dev/github.com/goccy/go-graphviz) 
+# go-graphviz [![Go](https://github.com/MartijnCBV/go-graphviz/workflows/Go/badge.svg)](https://github.com/MartijnCBV/go-graphviz/actions) [![GoDoc](https://godoc.org/github.com/goccy/go-graphviz?status.svg)](https://pkg.go.dev/github.com/goccy/go-graphviz) 
 
 Go bindings for Graphviz
 
@@ -115,7 +115,7 @@ if err := g.RenderFilename(ctx, graph, graphviz.PNG, "/path/to/graph.png"); err 
 ### Installation
 
 ```bash
-$ go install github.com/goccy/go-graphviz/cmd/dot@latest
+$ go install github.com/MartijnCBV/go-graphviz/cmd/dot@latest
 ```
 
 ### Usage
